@@ -1,4 +1,4 @@
-# Last updated: 9/17/2025, 3:53:04 PM
+# Last updated: 9/17/2025, 3:53:11 PM
 class Solution:
     def findOrder(self, numCourses: int, pre: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
