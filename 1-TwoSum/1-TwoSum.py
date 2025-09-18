@@ -1,9 +1,9 @@
 """
 Problem: 1-TwoSum
-Last updated: 9/17/2025, 6:40:52 PM
+Last updated: 9/17/2025, 6:51:50 PM
 URL: https://leetcode.com/problems/two-sum/
 Difficulty: Easy
-Language: python
+Language: python3
 """
 
 class Solution:
