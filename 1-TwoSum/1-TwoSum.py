@@ -1,6 +1,6 @@
 """
 Problem: 1-TwoSum
-Last updated: 9/17/2025, 6:37:56 PM
+Last updated: 9/17/2025, 6:40:52 PM
 URL: https://leetcode.com/problems/two-sum/
 Difficulty: Easy
 Language: python
