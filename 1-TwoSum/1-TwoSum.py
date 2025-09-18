@@ -1,9 +1,4 @@
-# Last updated: 9/17/2025, 6:09:42 PM
+# Last updated: 9/17/2025, 6:20:47 PM
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pair_idx = {}
-
-        for i, num in enumerate(nums):
-            if target - num in pair_idx:
-             return [i, pair_idx[target - num]]
-            pair_idx[num] = i
+        print("Troll yoyo")
