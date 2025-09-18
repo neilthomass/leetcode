@@ -1,4 +1,11 @@
-# Last updated: 9/17/2025, 6:26:09 PM
+"""
+Problem: 1-TwoSum
+Last updated: 9/17/2025, 6:37:56 PM
+URL: https://leetcode.com/problems/two-sum/
+Difficulty: Easy
+Language: python
+"""
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         pair_idx = {}
