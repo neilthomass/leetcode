@@ -1,10 +1,9 @@
 """
-Problem: 1-TwoSum
-Last updated: 9/18/2025, 1:05:25 PM
+Last updated: 9/18/2025, 1:06:17 PM
 URL: https://leetcode.com/problems/two-sum/
 Difficulty: Easy
-Runtime: 4 ms (Beats 41.62%)
-Memory: 18.8 MB (Beats 62.03%)
+Runtime: 0 ms (Beats 100%)
+Memory: 19.1 MB (Beats 10.32%)
 Language: python3
 """
 
