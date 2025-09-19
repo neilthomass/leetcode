@@ -1,8 +1,8 @@
 /**
- * Last updated: 9/18/2025, 8:15:23 PM
+ * Last updated: 9/18/2025, 8:17:37 PM
  * URL: https://leetcode.com/problems/two-sum/
  * Runtime: 2 ms (Beats 98.89%)
- * Memory: 45.2 MB (Beats 31.42%)
+ * Memory: 45.1 MB (Beats 31.42%)
  * Language: javascript
  */
 
